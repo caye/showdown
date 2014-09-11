@@ -1,11 +1,12 @@
-# Showdown [![build status](https://secure.travis-ci.org/coreyti/showdown.png)](http://travis-ci.org/coreyti/showdown)
+# Angular-Showdown
 
-A JavaScript port of Markdown
+A JavaScript port of Markdown setup for install as a bower component for angular-js
 
 ## Note
 
-  > **Please note** that I, [Corey](https://github.com/coreyti), am not the author
-  > of Showdown. Rather, I found it some time back at <http://attacklab.net/showdown/>
+  > **Please note** that I, [Caye](https://github.com/caye), am not the author
+  > of Showdown. Rather, I found it from [Corey](https://github.com/coreyti) who found it some 
+  > time back at <http://attacklab.net/showdown/>
   > (website removed, see: <http://wayback.archive.org/web/*/http://attacklab.net/showdown>)
   > and wanted to see it available on GitHub.
   >
